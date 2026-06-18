@@ -1,9 +1,9 @@
 # 📝 Notes App Backend — Full Assignment
 
 A complete Node.js + Express + MongoDB backend covering:
-- **Assignment 1:** To-Do List REST API
-- **Assignment 2:** User Authentication API
-- **Mini Project:** Notes App with JWT-secured CRUD
+- **To-Do List REST API** 
+- **User Authentication API** 
+- **Notes App with JWT-secured CRUD** 
 
 ---
 
